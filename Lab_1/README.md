@@ -29,3 +29,13 @@ Example:-
 int a[]=new int[6];//declaration of single dimensional array
 int b[][]=new int [3][3];//deckaration of two-dimensional(multi-dimensional array)
 
+```
+Output of [OneDimensionalArray.java](OneDimensionalArray.java) is
+
+```
+The numbers in array are:
+3
+4
+5
+6
+```
