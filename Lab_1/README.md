@@ -39,3 +39,12 @@ The numbers in array are:
 5
 6
 ```
+
+Output of [TwoDimensionalArray.java](TwoDimensionalArray.java) is
+```
+The numbers in array are:
+4
+5
+4
+9
+```
