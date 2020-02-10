@@ -39,7 +39,7 @@ ___
 	*  Hierarchial Inheritance:-
 		When two or more classes inherits a single class, it is known as hierarchical inheritance.
 		When a class inherits another class, it is known as a single inheritance.
-		The output of [HierarchialInheritance.java](HierarchialInheritance.java) is
+		The output of [HierarchialInheritance.java](HierarchialInnheritance.java) is
 		```
 		Hello
 		There
