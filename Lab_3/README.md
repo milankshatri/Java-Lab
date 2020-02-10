@@ -22,7 +22,7 @@ ___
 
 	* Single Inheritance:-
 		When a class inherits another class, it is known as a single inheritance.
-		The outut of [SingleInheritance.java](SingleInheritance.java) is
+		The output of [SingleInheritance.java](SingleInheritance.java) is
 		```
 		Hello
 		There
@@ -30,7 +30,7 @@ ___
 	* Multilevel Inheritance:-
 		When there is a chain of inheritance, it is known as multilevel inheritance.
 		When a class inherits another class, it is known as a single inheritance.
-		The outut of [MultilevelInheritance.java](MultilevelInheritance.java) is
+		The output of [MultilevelInheritance.java](MultilevelInheritance.java) is
 		```
 		Hello
 		There
@@ -39,7 +39,7 @@ ___
 	*  Hierarchial Inheritance:-
 		When two or more classes inherits a single class, it is known as hierarchical inheritance.
 		When a class inherits another class, it is known as a single inheritance.
-		The outut of [HierarchialInheritance.java](HierarchialInheritance.java) is
+		The output of [HierarchialInheritance.java](HierarchialInheritance.java) is
 		```
 		Hello
 		There
