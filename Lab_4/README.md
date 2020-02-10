@@ -14,3 +14,10 @@ interface InterfaceName{
 	// by default
 }
 ```
+The Output of [InterfaceDemo.java](InterfaceDemo.java) is:-
+```
+Hello There
+Bye
+Gces
+Lamachaur
+```
