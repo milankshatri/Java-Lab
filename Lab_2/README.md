@@ -22,7 +22,7 @@ __There are two types of Constructor in java__
 		}
 	}
 	```
-The output of [DefaultConstructor.java](DefaultConstructor.java) is:-
+ The output of [DefaultConstructor.java](DefaultConstructor.java) is:-
  ```
  The product of Var1 and Var2 = 42
  ```
@@ -39,8 +39,8 @@ The output of [DefaultConstructor.java](DefaultConstructor.java) is:-
 		}
 	}
 	```
-The optput of [ParameterizedConstructor.java](ParameterizedConstructor.java) is:-
+ The output of [ParameterizedConstructor.java](ParameterizedConstructor.java) is:-
  ```
-First Number=4 & Second Number=5
-The Sum of the numbers =9
-```
+ First Number=4 & Second Number=5
+ The Sum of the numbers =9
+ ```
