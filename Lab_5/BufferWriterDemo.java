@@ -1,5 +1,5 @@
 import java.io.*;
-class BufferedWriterDemo{
+class BufferWriterDemo{
 	public static void main(String[] args) {
 		try{
 			FileWriter fwd=new FileWriter("Buffer.txt");
