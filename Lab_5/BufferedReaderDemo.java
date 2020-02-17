@@ -1,14 +1,14 @@
-import java.io.*;  
-public class BufferedReaderDemo{  
+import java.io.*;
+class BufferReaderDemo{  
     public static void main(String args[])throws Exception{    
-          FileReader a=new FileReader("Buffer.txt");    
-          BufferedReader br=new BufferedReader(a);    
+          FileReader fwd=new FileReader("Buffer.txt");    
+          BufferedReader br=new BufferedReader(fwd);    
   
-          int i;    
-          while((i=br.read())!=-1){  
-          System.out.print((char)i);  
+          int a;    
+          while((a=br.read())!=-1){  
+          System.out.print((char)a);  
           }  
           br.close();    
-          fr.close();    
+          fwd.close();    
     }    
 }   
