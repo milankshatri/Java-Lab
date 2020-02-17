@@ -6,4 +6,4 @@
 | :two: | Constructor in Java | [Lab 2](Lab_2) |
 | :three: | Types of Variable,Inheritance, Abstract class |[Lab 3](Lab_3) |
 | :four: | Interface |[Lab 4](Lab_4) |
-| :five: | Writer and it's types in java | [Lab 3](Lab_4) |
+| :five: | Writer Class and Writer Class in Java | [Lab 5](Lab_5) |
