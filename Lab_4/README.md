@@ -76,8 +76,8 @@ class Exception{
 }
 ```
 ### Output
-Cannot divide by zero\
-this finally block gets executed anyways
+Cannot divide by zero.
+this finally block gets executed anyways.
 
 # Packages In Java
 
