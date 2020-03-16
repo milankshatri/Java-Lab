@@ -26,20 +26,20 @@ Following steps are required to perform event handling:
 ### Registration Methods
 For registering the component with the Listener, many classes provide the registration methods. For example:
 
-*  __Button__
+*  __Button__:
 public void addActionListener(ActionListener a){}
-+  __MenuItem__
++  __MenuItem__:
 public void addActionListener(ActionListener a){}
-+  __TextField__
++  __TextField__:
 public void addActionListener(ActionListener a){}
 public void addTextListener(TextListener a){}
-+  __TextArea__
++  __TextArea__:
 public void addTextListener(TextListener a){}
-+  __Checkbox__
++  __Checkbox__:
 public void addItemListener(ItemListener a){}
-+  __Choice__
++  __Choice__:
 public void addItemListener(ItemListener a){}
-+  __List__
++  __List__:
 public void addActionListener(ActionListener a){}
 public void addItemListener(ItemListener a){}
 
